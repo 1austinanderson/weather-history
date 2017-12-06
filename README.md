@@ -1,6 +1,8 @@
 # weather-history
 Visualization for historical aviation weather data. Sample data available <a href="https://drive.google.com/open?id=1P2qJXJ5lltBpuqUCxd-7OqBgRIc3WuaB">here</a>.
 
+![alt text](https://raw.githubusercontent.com/1austinanderson/weather-history/master/MRYHistData.png)
+
 # Backstory
 As a private pilot and small aircraft owner, one of the most exciting parts of my Summer 2017 move from New Hampshire to California was flying across the country. I had a blast stopping at small airports and towns along the way. Long-distance travel in a small plane is very different from flying on the airlines - you are much closer to the ground, so weather plays a much greater role in your experience. I knew that Monterey was famous for the summer marine layer - low fog that can persist for days at a time, making flying by small plane difficult or impossible. I just missed the "June Gloom", but as "No-Sky July" gave way to "Fogust", I wondered whether the weather would ever get better.
 
